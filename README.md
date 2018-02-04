@@ -4,13 +4,14 @@ This is matlab impelementation of Co-occurrence Filter which is histogram based 
 
 Information of Paper
 ====================
-@article{
-          author = {Roy J Jevnisek and Shai Avidan},
-          title = {Co-occurrence Filter},
-          link = {https://arxiv.org/abs/1703.04111},
-          year = {2017}
-}
+If you use these models in your research, please cite:
 
+	@article{He2015,
+		author = {Roy J Jevnisek and Shai Avidan},
+		title = {Co-occurrence Filter},
+		journal = {https://arxiv.org/abs/1703.04111},
+		year = {2017}
+	}
           
 Usage
 =====
