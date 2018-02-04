@@ -4,12 +4,11 @@ This is matlab impelementation of Co-occurrence Filter which is histogram based 
 
 Information of Paper
 ====================
-        '
           author = {Roy J Jevnisek and Shai Avidan},
           title = {Co-occurrence Filter},
           year = {2017}
           link = {https://arxiv.org/abs/1703.04111}
-        '
+          
 Usage
 =====
 * Input gray scale image is expected.  
