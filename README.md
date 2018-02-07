@@ -6,7 +6,7 @@ Information of Paper
 ====================
 If you use these models in your research, please cite:
 
-	@article{He2015,
+	@article{
 		author = {Roy J Jevnisek and Shai Avidan},
 		title = {Co-occurrence Filter},
 		journal = {https://arxiv.org/abs/1703.04111},
