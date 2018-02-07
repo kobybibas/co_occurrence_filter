@@ -140,3 +140,9 @@ function [h] = createGaussianFilter(filter_size,sigma)
 [X, Y] = meshgrid(ceil(-filter_size/2):floor(filter_size/2),ceil(-filter_size/2):floor(filter_size/2));
 h = exp(-(X.^2 + Y.^2) / (2*sigma^2+eps));
 end
+
+
+function res = sum2(x)
+%Matrix 2d summation 
+res = sum(x(:));
+end
